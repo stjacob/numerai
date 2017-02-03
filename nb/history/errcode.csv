@@ -1,0 +1,159 @@
+0,,suc,,,,
+104,´¦Àí³¬Ê±,all,no,no,dev,ÁªÏµDEVºÍOPT
+37,PVÒ»ÃëÄÚÆµ´Î¿ØÖÆ,argumentor,no,no,dev,Èç¹ûÒ»¸öÒ³ÃæÍ¬Ê±³öÏÖ¶à¸ö¹ã¸æ£¬ÎÒÃÇ»áÑ¡ÔñÖ»¶Ô¼¸¸ö¹ã²¥½øĞĞ¾º¼Û£¬Òò´ËÒ»Ğ©Á÷Á¿²»»á²ÎÓë¾º¼Û
+42,appid °×Ãûµ¥¹ıÂË,argumentor,no,no,BI,¼ì²é°×Ãûµ¥ÉèÖÃÊÇ·ñ¹ıÓÚÑÏ¸ñ
+43,domain °×Ãûµ¥¹ıÂË,argumentor,no,no,BI,¼ì²éÓòÃû°×Ãûµ¥ÉèÖÃÊÇ·ñ¹ıÓÚÑÏ¸ñ
+44,slot_id°×Ãûµ¥¹ıÂË£¨·ÏÆú£©,argumentor,no,no,dev,urlÎª¿ÕµÄÊ±ºò¼ì²éslot_idÊÇ·ñÔÚslot_id°×Ãûµ¥ÖĞ
+46,domain ºÚÃûµ¥¹ıÂË,argumentor,no,no,BI,¼ì²éºÚÃûµ¥ÉèÖÃÊÇ·ñ¹ıÓÚÑÏ¸ñ
+48,ua ºÚÃûµ¥¹ıÂË£¨·ÏÆú£©,argumentor,no,no,dev,¸ù¾İ ua ½øĞĞ¹ıÂË£¬Ä¿Ç°Ö»ÔÚtanx Æ½Ì¨¿ªÆô
+150,Î´ÖªºÚÃûµ¥¹ıÂË,argumentor,no,no,·´×÷±×,ÁªÏµ·´×÷±×Team
+151,DomainºÚÃûµ¥¹ıÂË,argumentor,no,no,·´×÷±×,ÁªÏµ·´×÷±×Team
+152,IpºÚÃûµ¥¹ıÂË,argumentor,no,no,·´×÷±×,ÁªÏµ·´×÷±×Team
+153,UidºÚÃûµ¥¹ıÂË,argumentor,no,no,·´×÷±×,ÁªÏµ·´×÷±×Team
+154,APPidºÚÃûµ¥¹ıÂË,argumentor,no,no,·´×÷±×,ÁªÏµ·´×÷±×Team
+155,¿Õuserid¹ıÂË,argumentor,no,no,dev,ÁªÏµdev
+157,(who_server)ÊµÊ±zidºÚÃûµ¥¹ıÂË,argumentor,no,no,dev,ÁªÏµdev
+158,(who_server)ÊµÊ±uidºÚÃûµ¥¹ıÂË,argumentor,no,no,dev,ÁªÏµdev
+160,slotidºÚÃûµ¥¹ıÂË,argumentor,no,no,·´×÷±×,ÁªÏµ·´×÷±×Team
+220,±íÊ¾zid Îª¿Õ,argumentor/searcher,yes,no,dev,argumentorÀïÃæ±íÊ¾ÒÆ¶¯Æ½Ì¨È±ÉÙdevice_id 
+,,,,,,searcherÀïÃæ±íÊ¾ÓĞÆµ´Î¿ØÖÆµÄadgroup²»Æ¥ÅäÈ±ÉÙzidÁ÷Á¿
+,,,,,,
+103,ÇëÇó³õÊ¼»¯Ê§°Ü,before broker,no,no,dev,ÁªÏµDEV
+106,¶ÓÁĞ³¬Ê±,before broker,no,no,dev¡¢opt,ÁªÏµDEVºÍOPT
+107,QPS³¬ÏŞ,before broker,no,no,dev¡¢opt,ÁªÏµDEVºÍOPT
+6,ÇëÇóÖĞÖ¸¶¨²»ÔÊĞíÍ¼Æ¬ÀàĞÍÎïÁÏ,borker,no,no,TS,ÁªÏµÏà¹ØÆ½Ì¨
+-1,¹Ø¼ü Rpc Ê§°Ü(Ä¿Ç°Ö»ÓĞ who server),broker,no,no,Dev,ÁªÏµ¿ª·¢
+1,ÇëÇó²ÎÊıÖĞAdsize·Ç·¨,broker,no,no,TS,ÁªÏµÏà¹ØÆ½Ì¨
+2,ÇëÇó²ÎÊıÖĞUserId·Ç·¨,broker,no,no,TS,ÁªÏµÏà¹ØÆ½Ì¨
+3,ÇëÇó²ÎÊıÖĞRequestId·Ç·¨,broker,no,no,TS,ÁªÏµÏà¹ØÆ½Ì¨
+4,ÇëÇó²ÎÊıÖĞUserIp·Ç·¨,broker,no,no,TS,ÁªÏµÏà¹ØÆ½Ì¨
+5,ÇëÇóÖĞVendorId·Ç·¨,broker,no,no,DEV,ÁªÏµdevÅÅ²éÎÊÌâ
+13,²âÊÔÇëÇó,broker,no,no,,ÎŞÊÓ
+31,Vast Companion¹ıÂË,broker,no,no,dev,ÁªÏµDEV
+33,×ÔÓĞÃ½Ìåslot id²»´æÔÚ»òÕßÍ£Ö¹Í¶·Å,broker,no,no,TS,×ÔÓĞÃ½Ìå´úÂë²¿ÊğÓĞÎÊÌâ£¬»òÕßFEÃ»ÓĞÅäÖÃÏà¹Ø¹ã¸æÎ»£¬ÁªÏµÏà¹ØTS
+98,ÇëÇóÕıÈ·½âÎö£¬µ«ÊÇ²»ÊÇÏëÒªµÄ,broker,no,no,TS,ÁªÏµTS£¬¸úADXÆ½Ì¨¹µÍ¨£¬ÊÇ²»ÊÇ¸øÎÒÃÇµÄÁ¿Æ½Ì¨²»¶Ô
+99,ÇëÇó½âÎöÊ§°Ü,broker,no,no,dev,ÁªÏµTS»òÕßDEV
+0,²ÎÓë¾º¼Û,deliver,yes,yes,,
+29,½á¹ûÉú³ÉÊ§°Ü,Deliver,no,no,dev,ÁªÏµDEV
+11,Robot³ö¼Û¹ıµÍ£¬µÍÓÚ¹ã¸æÎ»µ×¼Û,robot,yes,yes,am,²é¿´adgroup³ö¼ÛÊÇ·ñ¹ıµÍ
+,,,,,,
+,,,,,,Èç¹ûÓë²ßÂÔÏà¹ØÇëÁªÏµÄ£ĞÍTeam
+40,³ö¼ÛµÍÓÚÒ»·ÖÇ®£¬±»megatron¹ıÂË,robot,,,Ä£ĞÍ,¼ì²éadgroup³ö¼Û£¬ºóÁªÏµÄ£ĞÍTeam
+101,Robot Î´Ô¤²âAdgroup (megatronÓĞ´«¸ørobots£¬±»robots¹ıÂËÁË£©,robot,yes,yes,Ä£ĞÍ,¼ì²é³ö¼Ûºó£¬ÁªÏµÄ£ĞÍTeam
+600 - 699,Robot ´íÎóÂë,robot,yes,no,robot,
+,,,,,,
+,AdgroupÎ´²ÎÓë¾º¼ÛÔ­Òò¼°µ÷ÕûÖ¸µ¼,,,,,
+28,Router¹ıÂË,router,no,no,dev,ÁªÏµDEV£¬Á÷Á¿Îª¿ÕÓòÃû»òÕß¿ÕAppIDµÈ
+47,YouKu Slotid Not Found,router,no,no,BI,slot id not in whitelist
+8,Ã»ÓĞTarget¶¨ÏòÑ¡ÖĞµÄAdgroup,searcher,no,no,am,²é¿´adgroup¶¨ÏòÌõ¼şÊÇ·ñÑ¡ÔñµÄÌ«¹ıÑÏ¸ñ
+,,,,,,
+,,,,,,ÒÔÖÁÓÚÃ»ÓĞÁ÷Á¿
+10,adgroup²»¿ÉÓÃ£¨indexÊı¾İÓë db Í¬²½ÎÊÌâ£©,searcher,yes,no,dev,Èç¹ûÊÇ³¤Ê±¼äÓĞE010ÇëÁªÏµDEV
+14,CPM¹ã¸æMax Price¹ıµÍ,searcher,yes,no,am,²é¿´adgroup³ö¼ÛÊÇ·ñ¹ıµÍ
+16,URL°×Ãûµ¥¹ıÂË,searcher,yes,no,am,¼ì²éadgroupÉè¶¨µÄURL°×Ãûµ¥
+17,URLºÚÃûµ¥¹ıÂË,searcher,yes,no,am,¼ì²éadgroupÉè¶¨µÄURLºÚÃûµ¥
+20,Banker¹ıÂË,searcher,yes,no,am,¼ì²écampaignÃ¿ÈÕÔ¤Ëã£¬µ±Ç°»¨·Ñ£¬
+,,,,,,
+,,,,,,ÒÔ¼°¹ã¸æÖ÷Óà¶î£¬ÈçÓĞ±ØÒª½øĞĞ³äÖµ
+21,Æµ´Î¿ØÖÆ¹ıÂË,searcher,yes,no,am,¼ì²écampaignÆµ´Î¿ØÖÆÉè¼Æ£¬ÊÊ¶È·Å¿í
+27,²úÆ·Àà±ğ¹ıÂË,searcher,yes,no,,²úÆ·Àà±ğ±»Á÷Á¿¹ıÂË
+,,,,,,
+,,,,,,ÈçÓĞ¿ÉÄÜ£¬ĞŞ¸Ä²úÆ·Àà±ğ
+,,,,,,
+,,,,,,Õâ¸ö»¹ÕæÃ»Ê²Ã´°ì·¨
+30,IDFA¹ıÂË,searcher,yes,no,,
+32,CampaignÍ¶·ÅÊ±¼ä¹ıÂË,searcher,yes,no,am,µ±Ç°ÒÑ¾­³¬³öÍ¶·ÅÊ±¼ä£¬µ÷ÕûcampaignÍ¶·ÅÊ±¼äÉèÖÃ
+34,×ÔÓĞÃ½Ìåslot ¹ã¸æÖ÷°×Ãûµ¥¹ıÂË,searcher,yes,no,am,¼ì²é×ÔÓĞÃ½Ìå¹ã¸æÎ»ÉèÖÃ£¬ÊÇ·ñ¹ã¸æÖ÷°×Ãûµ¥ÉèÖÃ¹ıÑÏ
+35,×ÔÓĞÃ½Ìåslot ¹ã¸æÖ÷ºÚÃûµ¥¹ıÂË,searcher,yes,no,am,¼ì²é×ÔÓĞÃ½Ìå¹ã¸æÎ»ÉèÖÃ£¬ÊÇ·ñ¹ã¸æÖ÷ºÚÃûµ¥ÉèÖÃ¹ıÑÏ
+36,campaign¼¶±ğµã»÷ÓëÕ¹ÏÖÔ¤Ëã¿ØÖÆ,searcher,yes,no,am,¼ì²écampaign µ±Ç°µã»÷ÓëÕ¹ÏÖ
+,,,,,,
+,,,,,,¼ì²écampaign Õ¹Ê¾µã»÷Ô¤ËãÉèÖÃ
+38,AdvertiserËæ»úÉ¸Ñ¡²ßÂÔ,searcher,yes,no,ts,Í¬Ò»¸ö¹ã¸æÖ÷ Ò»´Î¿ÉÒÔÓĞ3¸öadgroup ²ÎÓë¾º¼Û£¬ÆäÓàµÄ²»»á²ÎÓë¾º¼Û
+,,,,,,
+,,,,,,ÁªÏµTSÉÌÒé½â¾ö·½°¸
+41,Session¿ØÖÆ£¨·ÏÆú£©,searcher,yes,no,ts,¼ì²é»á»°¿ØÖÆ²ßÂÔÊÇ·ñ¹ıÓÚÑÏ¸ñ
+45,candidate control filter£¨·ÏÆú£©,searcher,yes,no,dev,³¬¹ıãĞÖµNÊ±¿´ÔËÆøÈ¡top N
+49,adbugÆ·ÅÆ°²È«¹ıÂË,searcher,no,no,TS,¸ù¾İadvertiser_idºÍURL¹ıÂË
+50,pdb·µ»¹±È¹ıÂË,searcher,yes,no,am,¾º¼ÛÊıÄ¿ÒÑ¾­´ï±ê
+100,ÎŞĞ§µÄcampaign£¨indexÊı¾İÓëDBÍ¬²½ÎÊÌâ£©,searcher,yes,no,dev,ÁªÏµDEV
+105,candidateÎª¿Õ,searcher,no,no,dev,ÁªÏµDEV
+161,slot planning¹ıÂË,searcher,yes,no,Ä£ĞÍ,ÁªÏµÄ£ĞÍTeam
+201,banker-¹ã¸æÖ÷Óà¶î¹ıÂË,searcher,yes,no,am,¼ì²é¹ã¸æÖ÷Óà¶î
+,,,,,,
+,,,,,,"Ê¹ÓÃBankerÒ³ÃæÄÚGetCampaignStatus,²é¿´¶ÔÓ¦campaignÔÚÌØ¶¨Æ½Ì¨ÄÚµÄ×´Ì¬¡£"
+,,,,,,
+,,,,,,http://soraka.zamplus.com:8888/banker
+202,banker-ÉÏ±¨Òì³£,searcher,yes,no,dev,ÁªÏµDEV
+203,banker-cost server Òì³£,searcher,yes,no,dev,ÁªÏµDEV
+204,banker-campaign budget ¹ıÂË,searcher,yes,no,am,¼ì²écampaignÔ¤Ëã
+,,,,,,
+,,,,,,"Ê¹ÓÃBankerÒ³ÃæÄÚGetCampaignStatus,²é¿´¶ÔÓ¦campaignÔÚÌØ¶¨Æ½Ì¨ÄÚµÄ×´Ì¬¡£"
+,,,,,,
+,,,,,,http://soraka.zamplus.com:8888/banker
+205,banker-slow ending ¹ıÂË,searcher,yes,no,am,¼ì²écampaignÔ¤Ëã
+,,,,,,
+,,,,,,"Ê¹ÓÃBankerÒ³ÃæÄÚGetCampaignStatus,²é¿´¶ÔÓ¦campaignÔÚÌØ¶¨Æ½Ì¨ÄÚµÄ×´Ì¬¡£"
+,,,,,,
+,,,,,,http://soraka.zamplus.com:8888/banker
+206,banker-Æ½»¬Í¶·Å¹ıÂË,searcher,yes,no,am,¼ì²écampaignÔ¤Ëã
+,,,,,,
+,,,,,,"Ê¹ÓÃBankerÒ³ÃæÄÚGetCampaignStatus,²é¿´¶ÔÓ¦campaignÔÚÌØ¶¨Æ½Ì¨ÄÚµÄ×´Ì¬¡£"
+,,,,,,
+,,,,,,http://soraka.zamplus.com:8888/banker
+207,banker-ÏµÍ³Òì³£,searcher,yes,no,dev,ÁªÏµDEVºÍOPT
+208,banker-campaign Êı¾İÒì³£,searcher,yes,no,dev,¼ì²écampaignÔ¤Ëã
+209,banker-ÏµÍ³ÅäÖÃÒì³£,searcher,yes,no,dev,ÁªÏµDEVºÍOPT
+210,adgroup_url_blacklist ºÚÃûµ¥¹ıÂË£¬ÓÉanti spam ÊµÊ±Éú³ÉÃûµ¥¡£,searcher,yes,no,dev,ÁªÏµ·´×÷±×team
+211,Ò³ÃæÆµ´Î¿ØÖÆ(Ö¸¶¨¹ã¸æÖ÷),searcher,yes,no,dev,¼ì²é /usr/local/megatron/conf/searcher.xmlÊÇ·ñttlÅäÖÃ£¬ÒÔ¼°ÅäÖÃµÄ¹ã¸æÖ÷¹ıÂËid
+212,µã»÷Õ¹ÏÖÆµ´Î¿ØÖÆ (Ö¸¶¨¹ã¸æÖ÷£©,searcher,yes,no,dev,¼ì²é /usr/local/megatron/conf/searcher.xmlÊÇ·ñttlÅäÖÃ£¬ÒÔ¼°ÅäÖÃµÄ¹ã¸æÖ÷¹ıÂËid
+197,YielderÎŞËØ²Ä,yiedler,yes,yes,am,µ±Ç°adgroupÊÇ·ñÓĞ¿ÉÓÃËØ²Ä£¿¿ÉÒÔÔÚsorakaÖĞ²éÑ¯
+,,,,,,
+,,,,,,http://soraka.zamplus.com:8888/datasource/material
+,,,,,,
+,,,,,,ÈçÓĞÁªÏµDEV²é¿´
+200,Ä£°å´íÎó,yiedler,yes,yes,,
+9,Ã»ÓĞ¿ÉÓÃµÄËØ²Ä,yielder,yes,yes,am,×îÖÕÃ»ÓĞÑ¡µ½¿ÉÓÃËØ²Ä
+,,,,,,
+,,,,,,Çë¿´¾ßÌåadgroup»òÕßcampaignµÄ´íÎóÂë 19X
+,,,,,,
+,,,,,,19X ´íÎóÂë»áÓĞÏêÏ¸ËµÃ÷
+102,RobotÒÑ¾­Ô¤²âµÄAdgroupÄÚ²¿¾º¼ÛÊ§°Ü£¨robots´«¸ømegatron£¬±»megatron×îÖÕ¹ıÂËµô£©,yielder,yes,yes,Ä£ĞÍ,¼ì²é³ö¼Ûºó£¬ÁªÏµÄ£ĞÍTeam
+182,Ctrip appnotice ¹ıÂË,yielder,yes,yes,dev,hack Âß¼­£¬Ğ¯³ÌÔÚ3´óÒÆ¶¯Æ½Ì¨ÉÏÍ¶·Å£¬¸ÃÁ÷Á¿Ã»ÓĞÃ÷ÎÄidfa ¡£
+183,µÍË×ÎïÁÏ¹ıÂË,yielder,yes,yes,dev,¼ì²éµ±Ç°adÊÇ·ñÊôÓÚµÍË×ÎïÁÏ£¬ºóÁªÏµDEV
+184,¹ã¸æÈ±ÉÙÍâ²¿ID,yielder,no,yes,dev,ÁªÏµdev
+186,AdÑÓÊ±Í¶·Å,yielder,yes,yes,dev,ÁªÏµDEV
+187,¹ã¸æÖ÷´íÎó,yielder,yes,yes,dev,ÁªÏµDEV
+188,AdInfoÎ´È¡µ½,yielder,yes,yes,dev,¼ì²éµ±Ç°adgroupÊÇ·ñÓĞ¿ÉÓÃad£¬ºóÁªÏµDEV
+189,AdÎ´Í¨¹ıExchangeÉóºË,yielder,yes,yes,dev,¼ì²éÊÇ·ñadgroupÓĞÍ¨¹ıExchangeÉóºËµÄad
+,,,,,,
+,,,,,,http://soraka.zamplus.com:8888/datasource/ad
+,,,,,,
+,,,,,,ºóÁªÏµDEV
+190,YielderÄÚ²¿´íÎó,yielder,yes,yes,dev,ÁªÏµDEV
+191,YielderÄÚAd³ß´ç²»Æ¥Åä,yielder,yes,yes,am,¼ì²éµ±Ç°adgroupµÄad³ß´çÊÇ·ñÂú×ãĞèÒªÍ¶·ÅµÄÁ÷Á¿¡£
+,,,,,,
+,,,,,,ÏÈ²éad
+,,,,,,
+,,,,,,http://soraka.zamplus.com:8888/datasource/ad
+,,,,,,
+,,,,,,ÔÙ²éadÏÂµÄËØ²ÄºÍÄ£°å
+,,,,,,
+,,,,,,http://soraka.zamplus.com:8888/datasource/material
+192,YielderÎŞAd,yielder,yes,yes,am,¼ì²éµ±Ç°adgroupÊÇ·ñÓĞ¿ÉÓÃad£¬ºóÁªÏµDEV
+,,,,,,
+,,,,,,http://soraka.zamplus.com:8888/datasource/ad
+193,YielderÄÚMaterial³ß´ç²»Æ¥Åä,yielder,yes,yes,am,¼ì²éµ±Ç°adgroupµÄ¾²Ì¬ad³ß´çÊÇ·ñÂú×ãĞèÒªÍ¶·ÅµÄÁ÷Á¿¡£
+194,YielderÄÚËØ²ÄÀàĞÍ²»Æ¥Åä,yielder,yes,yes,am,¼ì²éµ±Ç°adgroupµÄ¶¯Ì¬adËØ²ÄÀàĞÍÊÇ·ñÂú×ãĞèÒªÍ¶·ÅµÄÁ÷Á¿¡£
+195,YielderÄÚËØ²ÄLanding Page²»Æ¥Åä,yielder,yes,yes,am, Æ½Ì¨¹ã²¥¹ıÀ´µÄ²ÎÊıÖĞÒÑÖ¸¶¨ ²»ÔÊĞíÍ¶·ÅÄÄĞ©ÍøÕ¾
+,,,,,,
+,,,,,,¼ì²éµ±Ç°adgroupµÄadµÄ landing pageÊÇ·ñ±»exchange¹ıÂË
+196,YielderÄÚËØ²Ä²¥·ÅÊ±¼ä²»Æ¥Åä(Õë¶ÔÊÓÆµ),yielder,yes,yes,am,¼ì²éµ±Ç°adgroupµÄadµÄÊÓÆµËØ²ÄµÄÊ±³¤ÊÇ·ñ±»exchange¹ıÂË
+198,Yielder feeds ËØ²Ä È±ÉÙÌØ¶¨×Ö¶Î,yielder,yes,yes,am,ÒªÇó±ØÌîµÄ feeds ËØ²ÄÌØ¶¨×Ö¶ÎÎª¿Õ
+12, Ãô¸ĞµÄ¹ã¸æĞĞÒµ£¨·ÏÆú£¿£©,,,,,
+15, AnonymousUrlÄäÃûurl£¨·ÏÆú£¿£©,,,,,
+18, Ê±¼ä¶Î£¨·ÏÆú£¿£©,,,,,
+19, TopicFilter£¨·ÏÆú£¿£©,,,,,
+39,DirectDealFilter  DirectDeal¹ıÂË,,,,,
+108,Õâ¸öadgroupÄÚ²¿¾º¼ÛÊ§°Ü£¬µ«Í¬Ò»¹ã¸æÖ÷ÆäËûµÄadgroupÓĞÊ¤³ö¡£,,,,Ä£ĞÍ,¼ì²é³ö¼Ûºó£¬ÁªÏµÄ£ĞÍTeam
+185,,,,,,
+199,YielderAdLevelLow tanxµÈ¼¶¹ıÂË,,,,,

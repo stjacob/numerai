@@ -1,0 +1,100 @@
+104 处理超时  all
+37  PV一秒内频次控制	argumentor
+42  appid 白名单过滤	argumentor
+43  domain 白名单过滤	argumentor
+44  slot_id白名单过滤（废弃）	argumentor
+46  domain 黑名单过滤	argumentor
+48  ua 黑名单过滤（废弃）	argumentor
+150 未知黑名单过滤	argumentor
+151 Domain黑名单过滤	argumentor
+152 Ip黑名单过滤	argumentor
+153 Uid黑名单过滤	argumentor
+154 APPid黑名单过滤	argumentor
+155 空userid过滤 argumentor
+157 (who_server)实时zid黑名单过滤	argumentor
+158 (who_server)实时uid黑名单过滤	argumentor
+160 slotid黑名单过滤	argumentor
+220 表示zid 为空  argumentor/searcher
+03  请求初始化失败	before broker
+106 队列超时  before broker
+107 QPS超限 before broker
+6 请求中指定不允许图片类型物料  borker
+-1  关键 Rpc 失败(目前只有 who server)  broker
+1 请求参数中Adsize非法 broker
+2 请求参数中UserId非法 broker
+3 请求参数中RequestId非法  broker
+4 请求参数中UserIp非法 broker
+5 请求中VendorId非法 broker
+13  测试请求  broker
+31  Vast Companion过滤  broker
+33  自有媒体slot id不存在或者停止投放	broker
+98  请求正确解析，但是不是想要的  broker
+99  请求解析失败  broker
+0 参与竞价  deliver
+29  结果生成失败  Deliver
+11  Robot出价过低，低于广告位底价 robot
+40  出价低于一分钱，被megatron过滤 robot
+101 Robot 未预测Adgroup (megatron有传给robots，被robots过滤了） robot
+600 Robot 错误码	robot
+28  Router过滤  router
+47  YouKu Slotid Not Found  router
+8 没有Target定向选中的Adgroup  searcher
+10  adgroup不可用（index数据与 db 同步问题）	searcher
+14  CPM广告Max Price过低  searcher
+16  URL白名单过滤	searcher
+17  URL黑名单过滤	searcher
+20  Banker过滤  searcher
+21  频次控制过滤  searcher
+27  产品类别过滤  searcher
+30  IDFA过滤  searcher
+32  Campaign投放时间过滤  searcher
+34  自有媒体slot 广告主白名单过滤 searcher
+35  自有媒体slot 广告主黑名单过滤 searcher
+36  campaign级别点击与展现预算控制	searcher
+38  Advertiser随机筛选策略  searcher
+41  Session控制（废弃） searcher
+45  candidate control filter（废弃）  searcher
+49  adbug品牌安全过滤 searcher
+50  pdb返还比过滤	searcher
+100 无效的campaign（index数据与DB同步问题）	searcher
+105 candidate为空 searcher
+161 slot planning过滤 searcher
+201 banker-广告主余额过滤	searcher
+202 banker-上报异常 searcher
+203 banker-cost server 异常 searcher
+204 banker-campaign budget 过滤 searcher
+205 banker-slow ending 过滤 searcher
+206 banker-平滑投放过滤 searcher
+207 banker-系统异常 searcher
+208 banker-campaign 数据异常  searcher
+209 banker-系统配置异常 searcher
+210 adgroup_url_blacklist 黑名单过滤，由anti spam 实时生成名单。	searcher
+211 页面频次控制(指定广告主) searcher
+212 点击展现频次控制 (指定广告主）  searcher
+197 Yielder无素材	yiedler
+200 模板错误  yiedler
+9 没有可用的素材	yielder
+102 Robot已经预测的Adgroup内部竞价失败（robots传给megatron，被megatron最终过滤掉）  yielder
+182 Ctrip appnotice 过滤  yielder
+183 低俗物料过滤  yielder
+184 广告缺少外部ID  yielder
+186 Ad延时投放  yielder
+187 广告主错误	yielder
+188 AdInfo未取到	yielder
+189 Ad未通过Exchange审核 yielder
+190 Yielder内部错误 yielder
+191 Yielder内Ad尺寸不匹配	yielder
+192 Yielder无Ad  yielder
+193 Yielder内Material尺寸不匹配	yielder
+194 Yielder内素材类型不匹配 yielder
+195 Yielder内素材Landing Page不匹配	yielder
+196 Yielder内素材播放时间不匹配(针对视频) yielder
+198 Yielder feeds 素材 缺少特定字段 yielder
+12   敏感的广告行业（废弃？）  
+15   AnonymousUrl匿名url（废弃？）	
+18   时间段（废弃？）  
+19   TopicFilter（废弃？）	
+39  DirectDealFilter  DirectDeal过滤 
+108 这个adgroup内部竞价失败，但同一广告主其他的adgroup有胜出。  
+185   
+199 YielderAdLevelLow tanx等级过滤
